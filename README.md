@@ -1,0 +1,6 @@
+About The Project
+In the era of digital revolution and data abundance, the demand for automated image analysis has surged across various domains, ranging from healthcare and surveillance to e-commerce and entertainment. At the heart of this revolution lies the concept of image classification neural networks, a sophisticated branch of artificial intelligence that enables machines to interpret and categorize visual data with remarkable accuracy.
+
+An image classification neural network is a computational model inspired by the structure and function of the human brain, particularly the visual cortex. By leveraging layers of interconnected artificial neurons, these networks are trained on vast datasets of labeled images to learn intricate patterns and features representative of different object classes or categories. Through this process of learning, the network becomes adept at recognizing and classifying unseen images into predefined classes, enabling tasks such as identifying objects in photographs, detecting anomalies in medical scans, or recognizing faces in security footage.
+
+In this project we will construct a deep forward neural network to solve an image classification problem. Detail included import dataset, setup the model and train the model, use the model to do classification and then analysis the result.
