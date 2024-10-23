@@ -138,7 +138,6 @@ Total memory usage for training:
 = 47040000 bytes + 235146 bytes + 199936 bytes
 = 47475082 bytes
 
-Initialisation method
-I am using the default initialisation method for training the model. In Keras, the default weight initialization method for dense layers is Glorot Uniform initialization. This method generate the initial value from Uniform distribution. Each layer has different max and min value of Uniform distribution depends on the number of input units and output units.
+
 
 
